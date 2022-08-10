@@ -4,13 +4,13 @@ Spring Cloud Function enables Spring boot features on serverless providers, and 
 
 This quickstart shows you how to deploy Spring Boot Batch application on Azure Function. When you're finished, you can continue to manage the application via the Azure CLI or switch to using the Azure Portal.
 
-* [Deploy Spring Boot apps using Azure Spring Cloud and MySQL](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#deploy-spring-boot-batch-application-on-azure-function-using-spring-cloud-function)
-  * [What will you experience](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#what-will-you-experience)
-  * [What you will need](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#what-will-you-need)
-  * [Clone and build the repo](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#clone-and-build-the-repo)
-  * [Run the application](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#to-run-the-project-on-azure-cloud-shell)
-  * [Deploy the application](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#deploy-the-application-to-azure-functions)
-  * [Verify and monitor the application](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#verify-azure-function)
+* [Deploy Spring Boot apps using Azure Spring Cloud and MySQL](https://github.com/MicrosoftDocs/mslearn-deployspringbatch-in-azure-function#deploy-spring-boot-batch-application-on-azure-function-using-spring-cloud-function)
+  * [What will you experience](https://github.com/MicrosoftDocs/mslearn-deployspringbatch-in-azure-function#what-will-you-experience)
+  * [What you will need](https://github.com/MicrosoftDocs/mslearn-deployspringbatch-in-azure-function#what-you-will-need)
+  * [Clone and build the repo](https://github.com/MicrosoftDocs/mslearn-deployspringbatch-in-azure-function#clone-and-build-the-repo)
+  * [Run the application](https://github.com/MicrosoftDocs/mslearn-deployspringbatch-in-azure-function#run-the-application)
+  * [Deploy the application](https://github.com/MicrosoftDocs/mslearn-deployspringbatch-in-azure-function#deploy-the-application-to-azure-functions)
+  * [Verify and monitor the application](https://github.com/MicrosoftDocs/mslearn-deployspringbatch-in-azure-function#verify-and-monitor-application)
 
 # What will you experience
 You will:
