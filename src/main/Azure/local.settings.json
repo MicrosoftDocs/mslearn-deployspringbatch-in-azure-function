@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<your storage account key>",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "MAIN_CLASS":"com.example.BatchDemoApplication",
+    "AzureWebJobsDashboard": ""
+  }
+}
