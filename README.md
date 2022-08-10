@@ -47,7 +47,7 @@ Select Enter to run the code.
 * Create a new folder and clone the sample app repository to your Azure Cloud account
 
   `mkdir source-code`  
-  `git clone https://github.com/MicrosoftDocs/mslearn-springbootbatch-azurefunction.git`
+  `git clone https://github.com/MicrosoftDocs/mslearn-deployspringbatch-in-azure-function.git`
 
 * Change directory to the project
 
